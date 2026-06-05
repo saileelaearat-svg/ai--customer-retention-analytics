@@ -1,0 +1,25 @@
+# AI Customer Retention Analytics Platform
+
+A machine learning project that predicts customer churn using the Telco Customer Churn dataset.
+
+## Tech Stack
+•⁠  ⁠Python
+•⁠  ⁠Pandas
+•⁠  ⁠Scikit-learn
+•⁠  ⁠Streamlit
+•⁠  ⁠Joblib
+
+## Features
+•⁠  ⁠Customer churn prediction
+•⁠  ⁠Interactive dashboard
+•⁠  ⁠Churn trend analysis
+•⁠  ⁠Random Forest model
+
+## Dataset
+Telco Customer Churn Dataset (7043 customers, 31 features)
+
+## Accuracy
+78.6%
+
+## Run
+streamlit run app.py
