@@ -19,7 +19,10 @@ A machine learning project that predicts customer churn using the Telco Customer
 Telco Customer Churn Dataset (7043 customers, 31 features)
 
 ## Accuracy
-78.6%
+Accuracy: 84%
+F1 Score: 0.84
+AUC: 0.84
+
 
 ## Run
 streamlit run app.py
